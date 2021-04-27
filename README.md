@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Binlogo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+### 你好，世界 👋
+
+- 🔭 I’m currently working on Swift & iOS, building [a second brain](https://binlogo.github.io/Knowledge-Track/Introduction.html).
+- 🌱 I’m currently learning [Rust](https://binlogo.github.io/Knowledge-Track/programming-languages/rust/rust.html).
+- 📫 How to reach me: [blog](https://binlogo.github.io/post/about/)
 
 <!--
 **Binlogo/Binlogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
