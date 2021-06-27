@@ -2,9 +2,11 @@
 
 ### 你好，世界 👋
 
-- 🔭 I’m currently working on Swift & iOS, building [a second brain](https://binlogo.github.io/Knowledge-Track/Introduction.html).
+- 🔭 I’m currently working on [Swift](https://binlogo.github.io/Knowledge-Track/programming-languages/swift/swift.html) & [iOS](https://binlogo.github.io/Knowledge-Track/iOSDev/iOSDev.html), building [a second brain](https://binlogo.github.io/Knowledge-Track/Introduction.html).
 - 🌱 I’m currently learning [Rust](https://binlogo.github.io/Knowledge-Track/programming-languages/rust/rust.html).
-- 📫 How to reach me: [blog](https://binlogo.github.io/post/about/)
+- 💗 I'm lovin' life, Swimming&Coffee&Skateboarding.
+- 📫 How to reach me: [blog](https://binlogo.github.io/post/about/).
+- 👯 Welcome to [join us](https://leetcode-cn.com/circle/discuss/e4bBtA/).
 
 <!--
 **Binlogo/Binlogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
