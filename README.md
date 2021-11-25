@@ -2,8 +2,8 @@
 
 ### 你好，世界 👋
 
-- 🔭 I’m currently working on [Swift](https://binlogo.github.io/Knowledge-Track/programming-languages/swift/swift.html) & [iOS](https://binlogo.github.io/Knowledge-Track/iOSDev/iOSDev.html), building [a second brain](https://binlogo.github.io/Knowledge-Track/Introduction.html).
-- 🌱 I’m currently learning [Rust](https://binlogo.github.io/Knowledge-Track/programming-languages/rust/rust.html).
+- 🔭 I’m currently working on [Rust](https://binlogo.github.io/Knowledge-Track/programming-languages/rust/rust.html), previously on [Swift](https://binlogo.github.io/Knowledge-Track/programming-languages/swift/swift.html) & [iOS](https://binlogo.github.io/Knowledge-Track/iOSDev/iOSDev.html).
+- 🌱 I’m currently building [a second brain](https://binlogo.github.io/Knowledge-Track/Introduction.html) .
 - 💗 I'm lovin' life, Swimming&Coffee&Skateboarding.
 - 😄 Know more about me: [blog](https://binlogo.github.io/post/about/).
 - 📫 How to reach me: [Lark/飞书](https://www.feishu.cn/invitation/page/add_contact/?token=048m92c5-3f27-4519-90b6-ca498e852a45&unique_id=_mg4cY7_8zKNeA2a6eg0Bg==) 
