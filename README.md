@@ -1,10 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Binlogo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-### 你好，世界 👋
+### 👋
 
-- 🔭 I’m currently working on [Rust](https://binlogo.github.io/Knowledge-Track/programming-languages/rust/rust.html), previously on [Swift](https://binlogo.github.io/Knowledge-Track/programming-languages/swift/swift.html) & [iOS](https://binlogo.github.io/Knowledge-Track/iOSDev/iOSDev.html).
-- 🌱 I’m currently building [a second brain](https://binlogo.github.io/Knowledge-Track/Introduction.html) .
-- 💗 I'm lovin' life, Swimming&Coffee&Skateboarding.
+- 🔭 I’m a mobile software engineer.
+- 🚀 I'm currently working at [Lark](https://www.larksuite.com)  ([飞书](https://www.feishu.cn)).
+- 🛠️ I'm currently using Rust, Swift.
+- 🌱 I’m currently learning [React](https://roadmap.sh/react?s=64df7b96ced78d293526a1d9).
+- 💗 I'm lovin' hunting the coolest tech products.
 
 <!--
 **Binlogo/Binlogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
