@@ -18,3 +18,4 @@
 <a href="https://obsidian.md/" target="_blank"><img src="assets/obsidian.svg" alt="obsidian" height="40"/></a> &nbsp; &nbsp;
 <a href="https://rust-lang.org/" target="_blank"><img src="assets/rust.svg" alt="Rust Language" height="40"/></a> &nbsp; &nbsp;
 <a href="https://swift.org/" target="_blank"><img src="assets/swift.svg" alt="Swift Language" height="40"/></a> &nbsp; &nbsp;
+<a href="https://zellij.dev/" target="_blank"><img src="assets/zellij.svg" alt="Zellij" height="40"/></a> &nbsp; &nbsp;
